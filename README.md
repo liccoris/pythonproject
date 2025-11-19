@@ -1,8 +1,10 @@
 # Питон-проект по дисциплине "Программирование на языке Python".
 ## Пройденные этапы:
 1. Согласование
-2.	Генерирование данных
-3.	Анализ данных
+2.	Генерирование данных<br />
+[Данные](https://github.com/liccoris/pythonproject/blob/main/data.csv)
+3.	Анализ данных<br />
+[Анализ](https://github.com/liccoris/pythonproject/blob/main/dataanalysis.ipynb), [Обоснование](https://github.com/liccoris/pythonproject/blob/main/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.docx)
 ## Предстоящие этапы:
 4.	Разработка проекта
 5.	Защита<br />
